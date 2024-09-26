@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "768150334415",
+    "project_id": "loc1-5e841",
+    "storage_bucket": "loc1-5e841.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:768150334415:android:d3f8e5f5c1657402b540ba",
+        "android_client_info": {
+          "package_name": "com.company.huuloc"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "768150334415-pup29hnqrkhjsoas845uvf806sqlsa3q.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.company.huuloc",
+            "certificate_hash": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+          }
+        },
+        {
+          "client_id": "768150334415-qp6cclnhunf3ff15mug8sp898bekmg1p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC_0dYjF0xD0m2yllXd-RJZkCDH6QBPEVg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "768150334415-qp6cclnhunf3ff15mug8sp898bekmg1p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
